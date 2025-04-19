@@ -33,6 +33,13 @@ export default function Navbar() {
             </div>
           </div>
 
+
+
+           {/* headersearch start from here */}
+
+           <div className="w-full sm:w-5/12 ml-4">
+           <Select/>
+</div>
         </div>
       </div>
     </header>
